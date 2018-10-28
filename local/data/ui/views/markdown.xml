@@ -1,0 +1,4 @@
+<dashboard script="jg_markdown.js">
+  <label>Markdown</label>
+  <row><html><p id="p_markdown"></p></html></row>
+</dashboard>
